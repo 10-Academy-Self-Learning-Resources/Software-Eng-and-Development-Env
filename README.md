@@ -6,8 +6,14 @@ As defined by Techopedia, Software engineering is the process of analyzing user 
 #### What is Development Environment
 A development environment is a collection of procedures and tools for developing, testing and debugging an application or program. The development environment normally has three server tiers, called development, staging and production. All three tiers together are usually referred to as the DSP. [Read More here](https://www.techopedia.com/definition/16376/development-environment#:~:text=A%20development%20environment%20is%20a,referred%20to%20as%20the%20DSP.)
 
-####What is the difference between coding and Software Engineering? (aka What is not Software Engineering)
+#### What is the difference between coding and Software Engineering? (aka What is not Software Engineering)
+Coding, sometimes called computer programming, is how we communicate with computers. Code tells a computer what actions to take, and writing code is like creating a set of instructions. Software engineering is concerned with developing and maintaining software systems that behave reliably and efficiently, are affordable to develop and maintain, and satisfy all the requirements that customers have defined for them. [Learn More here](https://www.tutorialspoint.com/software_engineering/software_engineering_overview.htm)
 
+- Software Engineering is designing products that satisfy users need
+- SE is NOT designing for one single user but multiple users
+- SE is thinking critically about a user requirement and designing in a simple way that gives room for easy update if need be i.e getting and integrating user feedback
+
+Writing a bunch of functions to perform a specific task like reading your text messages out loud can be seen as coding, making that code scalable i.e (can serve many other people), accessible (other programmers can contribute to the code base to improve it functionality), packaged and deployed (users feedback is intergrated into the app and is easily available to them), version controlled etc are steps in SE.
 
 ## When will I use Software Engineerning in my ML career
 - When you work on ML projects ++ in test environments, or for real-life deployment?  Can we give an example/diagram here?  
@@ -25,12 +31,11 @@ A development environment is a collection of procedures and tools for developing
 ## How Software Engineering (SE) and Development Environment help solve problems
 - Using the practice that SE preach, you can easily implement customers feedback and deliver good product that get good reviews
 - It helps to be structured and knows what needs to be done at different stage of the application development
-- THERE IS A LOT MISSING HERE - THE INTERPLAY BETWEEN SE AND ML IS ESSENTIAL
+- Building a Machine Learning model is not enough to make it available to users, you'll need the knowledge of SE to package the model either as a pickled file, build an interface that consume your pickled ML model and a way to get user feedback to know how to improve the ML model. 
 
 ## Examples of how you use Software Engineering today
-**Planning** ur day ahead is one way you probably use some technique of SE
-++SE UNDERPINS ML - GOOD EXAMPLES HERE on the SE that fits into ML: https://towardsdatascience.com/how-to-hire-a-machine-learning-team-b8055fff57f
-++https://anatomyof.ai/
+- **Planning** your day ahead is one way you probably use some technique of SE
+- When you build a ML model and you use it to make prediction, the process of packaging your ML model, building interface that users can interact with to use your ML model (get predictions) are some of the practice in SE. SE makes ML model more useable
 
 ## What components makes up Software Engineering
 - **Programming Language**: When an application is being created, a developer must choose a language to write the project’s code with. Just like the languages that form our world, programming languages perform the same purpose but have a different structure and benefit.
@@ -43,5 +48,5 @@ A development environment is a collection of procedures and tools for developing
 Experts follow the principles of SE for all their projects
 
 Other resources:
-SE for ML - https://www.youtube.com/watch?v=2JXjtPB-RJw
-CD for ML - https://martinfowler.com/articles/cd4ml.html
+- SE for ML - https://www.youtube.com/watch?v=2JXjtPB-RJw
+- CD for ML - https://martinfowler.com/articles/cd4ml.html
