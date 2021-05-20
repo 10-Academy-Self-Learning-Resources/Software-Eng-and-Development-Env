@@ -50,3 +50,4 @@ Experts follow the principles of SE for all their projects
 Other resources:
 - SE for ML - [YouTube Video explaining Software Engineering](https://www.youtube.com/watch?v=2JXjtPB-RJw)
 - CD for ML - [An article detailing what Continous Development is about](https://martinfowler.com/articles/cd4ml.html)
+- iCS Edu - [Overview of Software Development Environments](https://www.ics.uci.edu/~andre/ics228s2006/dartellisonfeilerhabermann.pdf)
