@@ -48,5 +48,5 @@ Writing a bunch of functions to perform a specific task like reading your text m
 Experts follow the principles of SE for all their projects
 
 Other resources:
-- SE for ML - https://www.youtube.com/watch?v=2JXjtPB-RJw
-- CD for ML - https://martinfowler.com/articles/cd4ml.html
+- SE for ML - [YouTube Video explaining Software Engineering](https://www.youtube.com/watch?v=2JXjtPB-RJw)
+- CD for ML - [An article detailing what Continous Development is about](https://martinfowler.com/articles/cd4ml.html)
